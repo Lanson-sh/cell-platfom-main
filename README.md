@@ -36,7 +36,7 @@
 
 ![类注释](https://www.skywalking.pro/download/images/meta/WX20230206-092916@2x.png "类注释")
 
-**2. 数据库字段注释注释**
+**2. 数据库字段注释**
 
 ![类注释](https://www.skywalking.pro/download/images/meta/WX20230206-093511@2x.png "类注释")
 #### 项目特有优势
@@ -64,7 +64,7 @@
 该项目采用市面上比较流程的前后端分离架构，以SpringBoot技术栈为后端，以VUE为前端，采用优雅简洁漂亮的UI框架。系统采用前端发起请求，后端处理业务的方式进行交互，相对于传统的JSP，freemarker等技术有较大区别以及先进性。同时在权限控制方面有独到的创新，实现了VUE自定义指令，以控制系统权限到每一个系统按钮。是非常适合作为毕业设计以及学习的系统。
 
 **下图为系统前后端分离的软件架构图**
-![类注释](https://www.skywalking.pro/download/images/cell-platform/WechatIMG226.jpeg "类注释")
+![软件架构图](https://www.skywalking.pro/download/images/cell-platform/WechatIMG226.jpeg "软件架构图")
 
 #### 前端技术
 1. ElementUI
